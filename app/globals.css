@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav{
+  display: flex;
+  height: 70px;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  font-size: 50px;
+  border: 20cqmax;
+}
+.hero{
+  height: 100vh;
+  background-color: blue;
+  text-align: center;
+  font-size: 100px;
+  color: aliceblue;
+}
+.contact{
+  height: 100vh;
+  background-color: blue;
+  text-align: right;
+  font-size: 100px;
+  color: aliceblue;
+
+
+}
